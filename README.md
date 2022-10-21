@@ -17,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-<h1>Link do Projeto: https://explorer-lab-tau-sand.vercel.app/</h1>
+<p>Link do Projeto: https://explorer-lab-tau-sand.vercel.app/</p>
 
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
